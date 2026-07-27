@@ -4,35 +4,35 @@
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)](https://dart.dev)
 [![API](https://img.shields.io/badge/API-WeatherAPI-009688)](https://www.weatherapi.com/)
 
-Красивое и функциональное мобильное приложение погоды на Flutter с поддержкой мультиязычности, автокомплитом городов и сохранением избранного.
+A beautiful and functional Flutter weather app featuring multi-language support, city autocomplete search, and saved favorites.
 
 ---
 
-## 📱 Скриншоты
+## 📱 Screenshots
 
 <p align="center">
-  <img src="docs/main.jpg" width="180" alt="Главный экран" />
+  <img src="docs/main.jpg" width="180" alt="Home screen" />
   &nbsp;
-  <img src="docs/search.jpg" width="180" alt="Поиск городов" />
+  <img src="docs/search.jpg" width="180" alt="City search" />
   &nbsp;
-  <img src="docs/forecast.jpg" width="180" alt="Прогноз погоды" />
+  <img src="docs/forecast.jpg" width="180" alt="Weather forecast" />
   &nbsp;
-  <img src="docs/forecast2.jpg" width="180" alt="Прогноз погоды, подробно" />
+  <img src="docs/forecast2.jpg" width="180" alt="Detailed forecast" />
 </p>
 
 ---
 
-## ✨ Основные возможности
+## ✨ Key Features
 
-* **🔍 Умный поиск с автокомплитом:** Поиск городов на лету с подсказками через API-запросы к `WeatherAPI`.
-* **📅 Детальный прогноз на 3 дня:** Почасовая детализация температуры, влажности, скорости и направления ветра, давления и осадков.
-* **⭐ Избранные города:** Быстрый доступ к сохраненным локациям на главном экране с локальным сохранением состояния через `SharedPreferences`.
-* **🌐 Мультиязычность (l10n):** Полная поддержка смены языков интерфейса.
-* **🎨 Кастомный UI:** Продуманный дизайн с аккуратной презентацией данных.
+* **🔍 Smart Search with Autocomplete:** On-the-fly city search with suggestions powered by `WeatherAPI` requests.
+* **📅 Detailed 3-Day Forecast:** Hourly breakdown of temperature, humidity, wind speed and direction, pressure, and precipitation.
+* **⭐ Favorite Cities:** Quick access to saved locations on the home screen with local persistence using `SharedPreferences`.
+* **🌐 Multi-language Support (l10n):** Full support for switching UI languages.
+* **🎨 Custom UI:** Thoughtfully crafted design with clean data presentation.
 
 ---
 
-## 🛠️ Технологический стек
+## 🛠️ Tech Stack
 
 * **Framework:** Flutter
 * **Language:** Dart
@@ -43,9 +43,9 @@
 
 ---
 
-## 🚀 Быстрый запуск
+## 🚀 Getting Started
 
-1. **Клонируйте репозиторий:**
+1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/твой_ник/weather_app.git](https://github.com/tubik/weather_app.git)
-   cd weather_app
+   git clone [https://github.com/tub1k/weather.git](https://github.com/tub1k/weather.git)
+   cd weather
