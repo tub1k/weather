@@ -11,13 +11,13 @@
 ## 📱 Скриншоты
 
 <p align="center">
-  <img src="docs/main.jpg" width="240" alt="Главный экран" />
+  <img src="docs/main.jpg" width="180" alt="Главный экран" />
   &nbsp;
-  <img src="docs/search.jpg" width="240" alt="Поиск городов" />
+  <img src="docs/search.jpg" width="180" alt="Поиск городов" />
   &nbsp;
-  <img src="docs/forecast.jpg" width="240" alt="Прогноз погоды" />
+  <img src="docs/forecast.jpg" width="180" alt="Прогноз погоды" />
   &nbsp;
-  <img src="docs/forecast2.jpg" width="240" alt="Прогноз погоды, подробно" />
+  <img src="docs/forecast2.jpg" width="180" alt="Прогноз погоды, подробно" />
 </p>
 
 ---
